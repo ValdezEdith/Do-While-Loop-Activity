@@ -1,8 +1,5 @@
-
 let correctPassword = "KoreanaCutie18";
-
 let password ="KoreanaCutie18";
-
 
 do {if (password === correctPassword) 
     {console.log("Access granted.");} 
